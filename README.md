@@ -173,4 +173,19 @@ Abdul Basit Bin Tariq
 **🍽️ Streamline Your Restaurant Operations with This Academic Project**
 ```
 
+### ✅ To Use This README:
+1. **Replace** all screenshot links with actual file paths if hosting locally.  
+2. **Update** contact details and acknowledgments.  
+3. **Add** a `LICENSE` file if using MIT license.  
+4. **Customize** the "Future Enhancements" section based on your roadmap.  
+
+This README includes:  
+- Technical architecture  
+- Code examples  
+- Installation steps  
+- Security notes  
+- Contribution guidelines  
+- Visual documentation  
+- Roadmap for future features  
+
 
