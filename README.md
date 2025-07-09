@@ -1,11 +1,8 @@
 # 🍽️ Restaurant Management System  
 *A Java-based desktop application for managing restaurant operations developed during a Programming 1 course*
 
-![Login Panel](https://i.ibb.co/7C5ccJf/1-login-panel.png)  
-*Login Screen Screenshot*
-
 ## 📌 Overview  
-This is a **desktop-based restaurant management system** built using Java Swing and file-based storage. Designed for academic requirements, it provides core functionality for managing restaurant operations including authentication, menu items, orders, staff, and billing. The application features a drag-and-drop UI design created in NetBeans IDE.
+This is a **desktop-based restaurant management system** built using Java Swing and file-based storage. Designed for academic requirements, it provides core functionality for managing restaurant operations, including authentication, menu items, orders, staff, and billing. The application features a drag-and-drop UI design created in NetBeans IDE.
 
 ---
 
@@ -99,16 +96,13 @@ Password: abdul
 
 ## 📷 Screenshots  
 
-### 1. Login Panel  
-![Login Panel](https://i.ibb.co/7C5ccJf/1-login-panel.png)
-
-### 2. Menu Interface  
+### 1. Menu Interface  
 ![Menu](https://i.ibb.co/Y7kn3cQ/2-menu.png)
 
-### 3. Order Creation  
+### 2. Order Creation  
 ![Create Order](https://i.ibb.co/5c5vpwv/3-create-order.png)
 
-### 4. Order Confirmation  
+### 3. Order Confirmation  
 ![Order Confirmation](https://i.ibb.co/qJgRYCL/4-order-confirmation.png)
 
 ---
